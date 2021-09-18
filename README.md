@@ -25,7 +25,7 @@ Make sure you have node installed on your device. If installed, clone this repo 
 This project allows the user to create a professional README for their projects with just a few simple questions to answer.
 
 ## Demo
-https://user-images.githubusercontent.com/62036600/133878546-97b7f794-28ae-4987-b4d0-4dc073faa4b2.mp4
+![readme-generator-demo](https://user-images.githubusercontent.com/62036600/133878593-54e1f22e-0405-4c70-af14-b5a4c9ee14f0.gif)
 
 ## Contribution
 Made by Micah Duehring
