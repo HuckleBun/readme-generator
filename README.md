@@ -1,7 +1,7 @@
 # Professional README-Generator
 
 ## License
-This application is under the cover of the MIT license.
+This application is under the cover of the MIT license.<br>
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
@@ -29,5 +29,5 @@ This project allows the user to create a professional README for their projects 
 Made by Micah Duehring
 
 ## Connect
-GitHub: https://github.com/HuckleBun
+GitHub: https://github.com/HuckleBun<br>
 Email: micah@theduehrings.com
